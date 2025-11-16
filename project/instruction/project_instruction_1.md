@@ -1,7 +1,3 @@
-Sure — here’s the **English version** of your project instructions, translated and formatted as Markdown:
-
----
-
 # Task 1 – Statistical Data Mining Project
 
 ## Step 1: Building a Database
@@ -83,6 +79,3 @@ Choose **three variables** and **specific objects**, and compute their **standar
 * The project can be completed **individually or in pairs (recommended)**.
 * You must obtain **teacher approval** for your dataset and chosen variables before starting.
 
----
-
-Would you like me to create a downloadable English `.md` file version as well?
