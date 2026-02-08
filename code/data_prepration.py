@@ -24,6 +24,6 @@ def prepare_data(input_file: str, output_file: str):
     df.to_csv(output_file, index=False)
 
 if __name__ == "__main__":
-    input_file = "../database/data.csv"
-    output_file = "../database/processed_data.csv"
+    input_file = "database/bodyPerformance.csv"
+    output_file = "database/processed_data.csv"
     prepare_data(input_file, output_file)
